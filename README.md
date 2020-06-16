@@ -2,4 +2,4 @@
 
 animated bottom navigation view
 
-<img src="/demogif.gif" width = 500>
+<img src="/demogif.gif" width = 200>
